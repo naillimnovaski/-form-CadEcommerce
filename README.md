@@ -20,7 +20,13 @@
 ![](foto_ecommerce.png)
  
 ## Sites Consultados 🧠
-- Aprender a construir uma tabela de formulário de contatos em HTML5
+- [Shopee](https://shopee.com.br/)
+- [Magazine Luiza](https://www.magazineluiza.com.br/)
+- [Amazon](https://www.amazon.com.br/)
+- [boot strap](https://getbootstrap.com/)
+
+## Funcionalidade
+Aprender a construir uma tabela de formulário de contatos em HTML5
  
 ## Tecnologias Utilizadas 🖥️  
 - Visual Studio Code;
@@ -28,7 +34,8 @@
 - HTML5;
 - Github;
 - boot strap
-## Fontes Consultadas 🔗
- - [boot strap](https://getbootstrap.com/)
+- Git
+ 
 ## Autores 👥
 - [naillim novaski](https://github.com/naillimnovaski)
+- [Murilo Tonassi](https://github.com/murilo-tonassi)
