@@ -14,6 +14,10 @@
  
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de contatos
+
+![](FORM_CONTATO.png)
+
+![](foto_ecommerce.png)
  
 ## Sites Consultados 🧠
 - Aprender a construir uma tabela de formulário de contatos em HTML5
